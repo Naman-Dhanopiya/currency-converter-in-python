@@ -1,3 +1,6 @@
+'''currency converter allows you to convert currencies from one unit to another, such as converting Indian rupee into pounds, euros, US dollar, Canadian dollar, 
+Chinese yuan, Russia’s Rubal, etc. or vice versa.'''
+
 name=input("Enter your name: ")
 
 print("hii",name,"kindely follow the instruction to convert the currency: ")
